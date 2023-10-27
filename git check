@@ -1,0 +1,35 @@
+[33mcommit b869ea547fa51530d4477e9e040dd7c06e11b03b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Diogo Leonardo <diogoleo57@gmail.com>
+Date:   Wed Oct 25 20:49:36 2023 -0300
+
+    BoardException and defensive programing
+
+[33mcommit 97c8af9bf8c513413aa1b0fecfadccab58b2509a[m
+Author: Diogo Leonardo <diogoleo57@gmail.com>
+Date:   Wed Oct 25 20:35:36 2023 -0300
+
+    Placing pieces on the board
+
+[33mcommit ac78dbb2f4274f85757eafe8145adb5706aa2a48[m
+Author: Diogo Leonardo <diogoleo57@gmail.com>
+Date:   Mon Oct 23 21:18:42 2023 -0300
+
+    Chess Layer and printing the board
+
+[33mcommit 4e2dc3e9302f08a7b47f105fd2c649fda0242428[m
+Author: Diogo Leonardo <diogoleo57@gmail.com>
+Date:   Mon Oct 23 20:33:02 2023 -0300
+
+    Starting to implemeting board and piece
+
+[33mcommit 6172732682492bb1e79d3013c864cdbe1547e8c3[m
+Author: Diogo Leonardo <diogoleo57@gmail.com>
+Date:   Mon Oct 23 20:20:44 2023 -0300
+
+    First Class: Position
+
+[33mcommit d14e07254fd153642fe8eb39295800603d3e5a7a[m
+Author: Diogo Leonardo <diogoleo57@gmail.com>
+Date:   Mon Oct 23 20:12:52 2023 -0300
+
+    Project created
